@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I am Michael, a software engineer / data scientist.
-- Tech Stack: MERN stack (Typescript), Django, Flask, Vue
+- Tech Stack: MERN stack (Typescript), Django, Flask, Vue, MySQL
 - Nice meeting you
 
 <!--
