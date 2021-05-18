@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<sub> - ⚡ I am Michael, a software engineer / data scientist. </sub>
-###### - 👨🏽‍💻 Tech Stack: MERN stack (Typescript), Django, Flask, Vue, MySQL
-###### - 🙂 Nice meeting you
+<sub> - ⚡ I am Michael, a software engineer / data scientist </sub>
+<sub> - 👨🏽‍💻 Tech Stack: MERN stack (Typescript), Django, Flask, Vue, MySQL </sub>
+<sub> - 🙂 Nice meeting you </sub> 
 
 <!--
 **mhope-2/mhope-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
