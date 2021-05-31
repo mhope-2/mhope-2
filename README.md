@@ -1,3 +1,5 @@
+### Hi There! 👋🏼
+
 <sub> - ⚡ I am Michael, a software engineer / data scientist </sub><br>
 <sub> - 👨🏽‍💻 Tech Stack: MERN stack (Typescript), Django, Flask, Vue, Quasar, MySQL </sub><br>
 <sub> - 🙂 Nice meeting you </sub> 
