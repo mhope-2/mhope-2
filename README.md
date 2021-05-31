@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-### Hi there 👋
-
 ![Michael Hope's github stats](https://github-readme-stats.vercel.app/api?username=mhope-2&show_icons=true&bg_color=130,247BA0,537895&text_color=f7f7f7&title_color=f7f7f7&icon_color=f7f7f7)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhope-2&layout=compact&hide=typescript&bg_color=130,247BA0,537895&text_color=f7f7f7&title_color=f7f7f7&icon_color=f7f7f7)
