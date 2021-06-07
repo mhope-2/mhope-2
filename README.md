@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" width="100" height="50"/> &nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" width="100" height="50"/> &nbsp;
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" width="100" height="50"/> &nbsp;
-<img src="https://img.shields.io/badge/Vue-326ce5.svg?&style=for-the-badge&logo=vue&logoColor=white" alt="Vue" width="100" height="50"/> &nbsp;
+<img src="https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=vue-dot-js&logoColor=fff" alt="Vue" width="100" height="50"/> &nbsp;
 
 
 <sub> - ⚡ I am Michael, a software engineer / data scientist </sub><br>
