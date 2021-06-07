@@ -13,6 +13,19 @@
   </a>
 </p>
 
+## Toolbox
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="CSS" width="50" height="50"/> &nbsp;
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="HTML" width="50" height="50"/> &nbsp;
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="TailwindCSS" width="50" height="50"/>  &nbsp;
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="JavaScript" width="50" height="50"/> &nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="VueJS" width="50" height="50"/> &nbsp;
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Nuxt" width="50" height="50"/> &nbsp;
+<img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="NodeJS" width="50" height="50"/> &nbsp;
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="ExpressJS" width="50" height="50"/> &nbsp;
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="KeystoneJS" width="50" height="50"/> &nbsp;
+<img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="MongoDB" width="50" height="50"/> &nbsp;
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="PostgreSQL" width="50" height="50"/> &nbsp;
+<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Git" width="50" height="50"/> &nbsp;
 
 
 <sub> - ⚡ I am Michael, a software engineer / data scientist </sub><br>
