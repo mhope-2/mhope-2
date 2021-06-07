@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" width="100" height="50"/> &nbsp;
 <img src="https://api.iconify.design/logos-flask.svg?height=14?background-color=red" alt="Flask" width="100" height="50"/> &nbsp;
 <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=092E20" alt="Python" width="100" height="50"/> &nbsp;
-<img src="https://img.shields.io/badge/Expressjs-2CA5E0?style=for-the-badge&logo=expressr&logoColor=white" alt="Expressjs" width="100" height="50"/> &nbsp;
+<img src="https://img.shields.io/badge/Expressjs-6cc24a?style=for-the-badge&logo=express&logoColor=white" alt="Expressjs" width="100" height="50"/> &nbsp;
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" width="100" height="50"/> &nbsp;
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" width="100" height="50"/> &nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" width="100" height="50"/> &nbsp;
