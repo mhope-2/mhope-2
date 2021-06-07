@@ -14,8 +14,7 @@
 </p>
 
 ## Toolbox
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="CSS" width="50" height="50"/> &nbsp;
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="HTML" width="50" height="50"/> &nbsp;
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="HTML" width="100" height="50"/> &nbsp;
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="TailwindCSS" width="50" height="50"/>  &nbsp;
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="JavaScript" width="50" height="50"/> &nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="VueJS" width="50" height="50"/> &nbsp;
