@@ -14,15 +14,15 @@
 </p>
 
 ## Toolbox
-<img src="https://img.shields.io/badge/Django-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="HTML" width="100" height="50"/> &nbsp;
-<img src="https://img.shields.io/badge/Flask-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="HTML" width="100" height="50"/> &nbsp;
-<img src="https://img.shields.io/badge/Python-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="HTML" width="100" height="50"/> &nbsp;
-<img src="https://img.shields.io/badge/Expressjs-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="PostgreSQL" width="50" height="50"/> &nbsp;
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="HTML" width="100" height="50"/> &nbsp;
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="JavaScript" width="50" height="50"/> &nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="VueJS" width="50" height="50"/> &nbsp;
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Nuxt" width="50" height="50"/> &nbsp;
-<img src="https://img.shields.io/badge/Vue-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="MongoDB" width="50" height="50"/> &nbsp;
+<img src="https://img.shields.io/badge/Django-00ADD8?style=for-the-badge&logo=django&logoColor=white" alt="Django" width="100" height="50"/> &nbsp;
+<img src="https://img.shields.io/badge/Flask-00ADD8?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" width="100" height="50"/> &nbsp;
+<img src="https://img.shields.io/badge/Python-00ADD8?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="100" height="50"/> &nbsp;
+<img src="https://img.shields.io/badge/Expressjs-2CA5E0?style=for-the-badge&logo=expressr&logoColor=white" alt="Expressjs" width="100" height="50"/> &nbsp;
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" width="100" height="100"/> &nbsp;
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" width="100" height="50"/> &nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" width="100" height="50"/> &nbsp;
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" width="100" height="50"/> &nbsp;
+<img src="https://img.shields.io/badge/Vue-326ce5.svg?&style=for-the-badge&logo=vue&logoColor=white" alt="Vue" width="100" height="50"/> &nbsp;
 
 
 <sub> - ⚡ I am Michael, a software engineer / data scientist </sub><br>
