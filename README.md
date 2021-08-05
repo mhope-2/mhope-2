@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=vue-dot-js&logoColor=fff" alt="Vue" width="70" height="50"/> &nbsp;
  -->
 
-<sub> - ⚡ I am Michael, a software engineer / data scientist </sub><br>
+<sub> - ⚡ I am Michael, a software engineer </sub><br>
 <sub> - 👨🏽‍💻 Tech Stack: MERN stack (Typescript), Django, Flask, Vue, Quasar, MySQL </sub><br>
 <sub> - 🙂 Nice meeting you </sub> 
 
