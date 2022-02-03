@@ -5,7 +5,7 @@
   <a href="https://twitter.com/__mhope_">
     <img src="https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=twitter&logoColor=blue" alt="Twitter Page" /> 
   </a>
-  <a href="https://www.linkedin.com/in/michael-hope-setriakor-13a539142/">
+  <a href="https://www.linkedin.com/in/michael-hope-setriakor">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge" />
   </a>
   <a href="mailto:hopemichael720@gmail.com">
