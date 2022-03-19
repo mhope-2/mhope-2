@@ -26,7 +26,9 @@
  -->
 
 <sub> - ⚡ I am Michael, a software engineer (backend-focused) </sub><br>
-<sub> - 👨🏽‍💻 Tech Stack: MERN stack (Typescript), Django, Flask, MySQL </sub><br>
+<sub> - 👨🏽‍💻 Programming Languages: Python, Typescript, Golang </sub><br>
+<sub> - 👨🏽‍💻 Frameworks: Django, Flask, Go-Gin, Express </sub><br>
+<sub> - 👨🏽‍💻 Databases: Postgres, MySQL, MongoDB </sub><br>
 <sub> - 🙂 Nice meeting you </sub> 
 
 <!--
