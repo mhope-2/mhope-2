@@ -2,7 +2,7 @@
 
 
 <p align="">
-  <a href="https://twitter.com/__mhope_">
+  <a href="https://twitter.com/mhope_2">
     <img src="https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=twitter&logoColor=blue" alt="Twitter Page" /> 
   </a>
   <a href="https://www.linkedin.com/in/michael-hope-setriakor">
