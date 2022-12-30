@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge" />
   </a>
   <a href="mailto:hopemichael720@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Linkedin badge" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge" />
   </a>
 </p>
 
@@ -26,8 +26,8 @@
  -->
 
 <sub> - ⚡ I am Michael, a software engineer (backend-focused) </sub><br>
-<sub> - 👨🏽‍💻 Programming Languages: Python, Typescript, Golang, Java </sub><br>
-<sub> - 👨🏽‍💻 Frameworks: Django, Flask, Go-Gin, Express </sub><br>
+<sub> - 👨🏽‍💻 Programming Languages: Python, Golang, C++ </sub><br>
+<sub> - 👨🏽‍💻 Frameworks: Django, Flask, Go-Gin </sub><br>
 <sub> - 👨🏽‍💻 Databases: Postgres, MySQL, MongoDB </sub><br>
 <sub> - 🙂 Nice meeting you </sub> 
 
