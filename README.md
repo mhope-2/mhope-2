@@ -5,9 +5,9 @@
   <a href="https://twitter.com/mhope_2">
     <img src="https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=twitter&logoColor=blue" alt="Twitter Page" /> 
   </a>
-  <a href="https://www.linkedin.com/in/michael-hope-setriakor">
+<!--   <a href="https://www.linkedin.com/in/michael-hope-setriakor">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge" />
-  </a>
+  </a> -->
   <a href="mailto:hopemichael720@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge" />
   </a>
